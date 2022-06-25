@@ -15,3 +15,4 @@ elif b == '32bit':
     print("\x1b[1;91mOpps Sorry Beb Your Mobile Not Support This Tool")
 
     os.system('xdg-open xdg-open https://bit.ly/39Q0hn7/');time.sleep(5)
+ 
